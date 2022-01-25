@@ -1,0 +1,45 @@
+.h1-coffee{
+    background-color: violet;
+    display: inline-block;
+    margin:0 auto 0 auto;
+	display:table;
+}
+.li-header{
+
+    margin:0 auto 0 auto;
+	display:table;
+    list-style-type: none;
+    padding: 5px;
+    
+}
+.li-div-header{
+    margin-top: 10px;
+    
+    
+    
+}
+
+.a-header{
+    text-decoration: none;
+}
+
+.menu-li{
+    float: left;
+    margin: 5px;  
+
+}
+
+.menu-a{
+    text-decoration: none;
+}
+
+.site-p{
+    
+    display: inline-block;
+    color: orange;
+
+}
+
+.products-h1{
+    text-align: center;
+}
